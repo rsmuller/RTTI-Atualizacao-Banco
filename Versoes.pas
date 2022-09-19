@@ -27,10 +27,10 @@ implementation
 
 constructor TVersoes.Create(Conexao: TFDConnection);
 begin
-  AQuery            := TFDQuery.Create(nil);
+  AQuery            := TFDQuery.Create(nil); //Caso precise de um fdquery para realizar um update, ou outra operação
   AQuery.Connection := Conexao;
 
-  AConsulta            := TFDQuery.Create(nil);
+  AConsulta            := TFDQuery.Create(nil);  // caso precise de um fdquery para realizar consultas, antes de algum update
   AConsulta.Connection := Conexao;
 
   DDL                  := TDDL.Create(Conexao);
