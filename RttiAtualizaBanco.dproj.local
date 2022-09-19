@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/09/19 13:59:58.309,=C:\Users\DEV\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/09/19 14:00:40.349,C:\DEV\Fontes\RTTI-Atualizacao-Banco\UPrincipal.dfm=C:\Users\DEV\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/09/19 14:00:40.349,C:\DEV\Fontes\RTTI-Atualizacao-Banco\UPrincipal.pas=C:\Users\DEV\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/09/19 14:00:50.158,C:\DEV\Fontes\RTTI-Atualizacao-Banco\AtualizaBanco.dproj=C:\Users\DEV\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2022/09/19 14:01:49.426,=C:\DEV\Fontes\RTTI-Atualizacao-Banco\AtualizaBanco.pas</Transaction>
+    <Transaction>2022/09/19 14:01:49.441,=C:\DEV\Fontes\RTTI-Atualizacao-Banco\Versoes.pas</Transaction>
+    <Transaction>2022/09/19 14:02:39.339,=C:\DEV\Fontes\RTTI-Atualizacao-Banco\DDL.pas</Transaction>
+    <Transaction>2022/09/19 14:05:56.649,C:\DEV\Fontes\RTTI-Atualizacao-Banco\RttiAtualizaBanco.dproj=C:\DEV\Fontes\RTTI-Atualizacao-Banco\AtualizaBanco.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
